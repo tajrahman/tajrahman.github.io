@@ -4,11 +4,10 @@
 # Contact Me
    
 ## Email
-tajj.rahman@gmail.com</br>
-tajal333@gmail.com
+tajj.rahman@gmail.com</br>tajal333@gmail.com
        
 ## Phone 
-      9526047364
+9526047364
        
 # My Interest
 Automobiles</br>
