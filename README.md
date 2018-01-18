@@ -1,14 +1,14 @@
 # About Me
-  I'm Mohamed Thajudeen, pursuing mechanical engineering at MESCE[Link](www.mesce.ac.in/) kuttippuram.
+  I'm Mohamed Thajudeen, pursuing mechanical engineering at [MESCE](www.mesce.ac.in/) kuttippuram.
   
 # Contact Me
    
 ## Email
--tajj.rahman@gmail.com
--tajal333@gmail.com
+     -tajj.rahman@gmail.com
+     -tajal333@gmail.com
        
 ## Phone 
-       - 9526047364
+     - 9526047364
        
 # My Interest
     - Automobiles
