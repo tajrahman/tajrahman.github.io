@@ -1,5 +1,5 @@
 # About Me
-  I'm Mohamed Thajudeen, pursuing mechanical engineering at [MESCE](www.mesce.ac.in/) kuttippuram. [taj](IMG_9704.JPG)
+  I'm Mohamed Thajudeen, pursuing mechanical engineering at [MESCE](www.mesce.ac.in/) kuttippuram. [image](IMG_9704.JPG)
   
 # Contact Me
    
