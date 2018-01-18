@@ -4,21 +4,21 @@
 # Contact Me
    
 ## Email
-tajj.rahman@gmail.com</br>
+tajj.rahman@gmail.com </br>
 tajal333@gmail.com
        
 ## Phone 
       9526047364
        
 # My Interest
-     Automobiles
-     Computer Aided Designing
-     Product Development
+     Automobiles </br>
+     Computer Aided Designing </br>
+     Product Development </br>
   
 # Syllabus
-       First day - Introdution to Fablab
-       Second day - Introduction to 123D
-       Third day - Documentation software and working on 123D
+       First day - Introdution to Fablab </br>
+       Second day - Introduction to 123D </br>
+       Third day - Documentation software and working on 123D </br>
        Fourth day -
 
   
