@@ -4,8 +4,8 @@
 # Contact Me
    
 ## Email
-     tajj.rahman@gmail.com
-     tajal333@gmail.com
+tajj.rahman@gmail.com
+tajal333@gmail.com
        
 ## Phone 
       9526047364
